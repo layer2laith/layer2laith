@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on blockchain and financial technology  
+🌱 I’m currently learning Layer 2 solutions (Optimism, Arbitrum) and smart contract development  
+👯 I’m looking to collaborate on blockchain projects and large-scale data analysis  
+🤔 I’m looking for help with Ethereum scaling and DeFi integrations  
+💬 Ask me about Ethereum, Solidity, and Layer 2 solutions  
+📫 How to reach me: ltabbaa06@gmail.com
+⚡ Fun fact: I love cycling and futball
+
 <!--
 **layer2laith/layer2laith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
