@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on financial technology(building a new auto instert for work)
+--
 🌱 I’m currently learning Layer 2 solutions (Optimism, Arbitrum) and smart contract development  
 👯 I’m looking to collaborate on blockchain projects and large-scale data analysis  
 🤔 I’m looking for help with Ethereum scaling and DeFi integrations  
